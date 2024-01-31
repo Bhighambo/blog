@@ -39,12 +39,12 @@
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="content">
-              <h3>QUI SOMMES NOUS!</h3>
+              <h3>QUI SUIS-JE?</h3>
               <p style="text-align: justify;">
                 Nous sommes <span style="color: blue;">JACKSON MABHULUKO Kennedy</span>, étudiant à l'Université de l'Assomption au Congo, Faculté des Sciences Economiques de Gestion, Département Informatique de Gestion. Spécialisation en Conception des Systèmes Informatiques (C.S.I)
               </p>
               <div class="text-center">
-                <a href="https://fr.scribd.com/document/427915545/Histoire-de-l-Adventisme-Du-7eme-Jour" class="more-btn">Savoir plus<i class="bx bx-chevron-right"></i></a>
+                <a href="https://fr.scribd.com/document/427915545/Histoire-de-l-Adventisme-Du-7eme-Jour" class="more-btn">Savoir plus sur moi<i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div>
