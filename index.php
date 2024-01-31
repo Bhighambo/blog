@@ -41,10 +41,7 @@
             <div class="content">
               <h3>QUI SOMMES NOUS!</h3>
               <p style="text-align: justify;">
-                Ces croyances apparurent peu à peu. Dans les années 1850, il n’y avait aucune Eglise Adventiste
-                du Septième Jour - seuls des petits groupes dispersés à travers le nord des Etats-Unis avaient ces
-                croyances communes, mais ils n’avaient pas de nom, même si certains, comme James White, sedisaient appartenir au « Grand Mouvement de la Seconde Venue », tandis que d’autres utilisaient
-                le terme « adventiste sabbataire ».
+                Nous sommes <span style="color: blue;">JACKSON MABHULUKO Kennedy</span>, étudiant à l'Université de l'Assomption au Congo, Faculté des Sciences Economiques de Gestion, Département Informatique de Gestion. Spécialisation en Conception des Systèmes Informatiques (C.S.I)
               </p>
               <div class="text-center">
                 <a href="https://fr.scribd.com/document/427915545/Histoire-de-l-Adventisme-Du-7eme-Jour" class="more-btn">Savoir plus<i class="bx bx-chevron-right"></i></a>
