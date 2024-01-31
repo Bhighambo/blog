@@ -35,17 +35,16 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center"><img src="assets/img/logos.jpg" style="width: 50px; height: 50px;">
-      <h1 class="logo me-auto"><a href="index.php" style="font-size: 20px;">NORTH-KIVU FIELD ADVENTIST</a></h1>
+      <h1 class="logo me-auto"><a href="index.php" style="font-size: 20px;">Home</a></h1>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="index.php">Accueil</a></li>
-          <li><a href="sermons.php">Semons</a></li>
-          <li><a href="alaune.php">A la-une</a></li>
-          <li class="dropdown"><a href="#"><span>Autres</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="active" href="index.php">Home</a></li>
+          <li><a href="sermons.php">Activités</a></li>
+          <li class="dropdown"><a href="#"><span>Ma bibliothèque</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="ecolesabbat.php">Ecole du sabbat</a></li>
-              <li><a href="laic.php">Laics</a></li>
+              <li><a href="ecolesabbat.php">TFC</a></li>
+              <li><a href="laic.php">Mémoires</a></li>
               <li><a href="livre.php">Livres</a></li>
               <li class="dropdown"><a href="#"><span>Ministère</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>

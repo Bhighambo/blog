@@ -1,9 +1,8 @@
 <?php require_once"menu.php"; ?>
   <section id="hero" class="d-flex justify-content-center align-items-center">
     <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Eglise<br>Adventiste</h1>
-      <h2>Une vie chrétienne est la source du royaume de Dieu</h2>
-      <a href="index.php" class="btn-get-started">Commencer</a>
+      <h1>Jackson Kennedy<br>Mabhuluko</h1>
+      <h2>Je suis étudiant à l'Université de l'Assomption au Congo/Butembo</h2>
     </div>
   </section><!-- End Hero -->
 
