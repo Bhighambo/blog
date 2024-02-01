@@ -60,14 +60,14 @@
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
                     <h4>Ecole secondaire</h4>
-                    <p>J'ai fait l'école secondaire dans des différentes institutions, et la raison c'était de chercher une meilleur école pour suivre .</p>
+                    <p style="text-align: justify;">J'ai fait l'école secondaire dans des différentes institutions, et la raison c'était de chercher une connaissance, et j'avais fait commerciale et gestion.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
-                    <h4>Service des prédications</h4>
-                    <p>vous pouvez participer à des classes ou des activités préparées par les autres, prier pour eux, vous porter volontaire quand ils ont besoin d'aide dans leur appel, ou fortifier ceux qui ont des difficultés. Vous pouvez aussi soutenir vos dirigeants en suivant leurs conseils.</p>
+                    <h4>Université</h4>
+                    <p style="text-align: justify;">Dans la faculté des sciences économiques de gestion, Département de l'informatique de gestion, Spécialisation en conception des systèmes informatiques.</p>
                   </div>
                 </div>
               </div>
