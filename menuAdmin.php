@@ -41,13 +41,13 @@ if (empty($_SESSION["admin"])) {
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center"><img src="assets/img/logos.jpg" style="width: 50px; height: 50px;">
-      <h1 class="logo me-auto"><a href="index.php" style="font-size: 20px;">NORTH-KIVU FIELD ADVENTIST</a></h1>
+      <h1 class="logo me-auto"><a href="index.php" style="font-size: 20px;">Jackson</a></h1>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="index.php">Accueil</a></li>
-          <li><a href="categorie.php">Publication</a></li>
-          <li><a href="membre.php">Membre</a></li>
+          <li><a class="active" href="index.php">Home</a></li>
+          <li><a href="categorie.php">Catégorie</a></li>
+          <li><a href="activite.php">Mes activités</a></li>
           <li><a href="profil.php">Profil</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

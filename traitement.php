@@ -5,11 +5,11 @@ if (isset($_POST["nom"])) {
 		$nom = htmlspecialchars($_POST["nom"]);
 		$motdepasse = htmlspecialchars($_POST["motdepasse"]);
 
-		$recupAdmin = $bdd->prepare("SELECT * FROM admin where nomutilisateur=? and motdepasse=?");
+		$recupAdmin = $bdd->prepare("SELECT * FROM admin where nom=? and motdepasse=?");
 	    $recupAdmin->execute([$nom, $motdepasse]);
 
 	    if ($info_donnees = $recupAdmin->fetch()) {
-	    	$_SESSION["admin"] = $info_donnees->idadmin;
+	    	$_SESSION["admin"] = $info_donnees->id;
 	    	header("location:categorie.php");
 	    }else{
 			header("location:index.php?message=1");

@@ -12,7 +12,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/cadres.jfif" class="img-fluid" alt="" style="width: 100%; height: 50vh;">
+            <img src="assets/img/j.jpg" class="img-fluid" alt="" style="width: 100%; height: 50vh;">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>Parcours</h3>
@@ -42,7 +42,7 @@
                 Nous sommes <span style="color: blue;">JACKSON MABHULUKO Kennedy</span>, étudiant à l'Université de l'Assomption au Congo, Faculté des Sciences Economiques de Gestion, Département Informatique de Gestion. Spécialisation en Conception des Systèmes Informatiques (C.S.I)
               </p>
               <div class="text-center">
-                <a href="https://fr.scribd.com/document/427915545/Histoire-de-l-Adventisme-Du-7eme-Jour" class="more-btn">Savoir plus sur moi<i class="bx bx-chevron-right"></i></a>
+                <a href="tel:+243 975 545 108" class="more-btn">Savoir plus sur moi<i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div>

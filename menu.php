@@ -40,25 +40,12 @@
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="active" href="index.php">Home</a></li>
-          <li><a href="sermons.php">Activités</a></li>
+          <li><a href="activites.php">Activités</a></li>
           <li class="dropdown"><a href="#"><span>Ma bibliothèque</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="ecolesabbat.php">TFC</a></li>
-              <li><a href="laic.php">Mémoires</a></li>
+              <li><a href="tfc.php">TFC</a></li>
+              <li><a href="memoire.php">Mémoires</a></li>
               <li><a href="livre.php">Livres</a></li>
-              <li class="dropdown"><a href="#"><span>Ministère</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="education.php">Education Chr.</a></li>
-                  <li><a href="pastoral.php">Ass. Pastorale</a></li>
-                  <li><a href="mifa.php">Mifem & Enfants</a></li>
-                  <li><a href="economat.php">Economat</a></li>
-                  <li><a href="personnel.php">Min. Personnel</a></li>
-                  <li><a href="musique.php">J.A & Musiques</a></li>
-                  <li><a href="communication.php">Communication</a></li>
-                  <li><a href="mas.php">Mas</a></li>
-                  <li><a href="developpement.php">Développement</a></li>
-                </ul>
-              </li>
             </ul>
           </li>
           <li><a href="contact.html">Contact</a></li>

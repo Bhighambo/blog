@@ -1,58 +1,6 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Design</h3>
-            <p>
-              <strong>Phone: <span style="color: orange">+243 975 545 108</span></strong><br>
-              <strong>Email:</strong>adventiste@advenstiste.uaclab.net<br>
-            </p>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Menus</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Accueil</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="sermons.php">Sermons</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="alaune.php">A la une</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Autres</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="ecolesabbat.php">Ecole du sabbat</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="laic.php">Laics</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="livre.php">Livres</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-links">
-            <h4>Ministère</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i><a href="education.php">Education Chr.</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="pastoral.php">Ass. Pastorale</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="mifa.php">Mifem & Enfants</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="economat.php">Economat</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="personnel.php">Min. Personnel</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="musique.php">J.A & Musiques</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="communication.php">Communication</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="mas.php">Mas</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="developpement.php">Développement</a></li>
-            </ul>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
     <div class="container d-md-flex py-4">
 
       <div class="me-md-auto text-center text-md-start">
