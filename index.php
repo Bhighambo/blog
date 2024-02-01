@@ -59,8 +59,8 @@
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>Service des séminaires</h4>
-                    <p>Le candidat est parfois appelé propédeute ou candidat au ministère presbytéral ou séminariste en année de fondation spirituelle.</p>
+                    <h4>Ecole secondaire</h4>
+                    <p>J'ai fait l'école secondaire dans des différentes institutions, et la raison c'était de chercher une meilleur école pour suivre .</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
