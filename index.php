@@ -15,22 +15,20 @@
             <img src="assets/img/cadres.jfif" class="img-fluid" alt="" style="width: 100%; height: 50vh;">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Equipe cadre de l'église adventiste</h3>
+            <h3>Parcours</h3>
             <p class="fst-italic">
-             Le cadre assume la responsabilité de l'élaboration de la stratégie, il adapte ainsi son organisation à un environnement changeant.
+             nous avons développé notre parcours dans les différentes écoles suivantes :
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Inviter les gens de vénir devant le seigneur</li>
-              <li><i class="bi bi-check-circle"></i> Développement de l'église de Dieu</li>
-              <li><i class="bi bi-check-circle"></i> La prédication de la parole de Dieu</li>
+              <li><i class="bi bi-check-circle"></i>E.P KATIBOMBO</li>
+              <li><i class="bi bi-check-circle"></i>INST. Canon Bailensi</li>
+              <li><i class="bi bi-check-circle"></i>INST. D'oicha</li>
+              <li><i class="bi bi-check-circle"></i>INST. Kamango</li>
+              <li><i class="bi bi-check-circle"></i>INST. Irangyo</li>
+              <li><i class="bi bi-check-circle"></i>Université de l'Assomption au Congo</li>
             </ul>
-            <p>
-              Le cadre doit servir de lien entre l'organisation et l'environnement, élément clef dans la transmission d'informations entre les deux
-            </p>
-
           </div>
         </div>
-
       </div>
     </section><!-- End About Section -->
     <section id="why-us" class="why-us">
@@ -54,8 +52,8 @@
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-receipt"></i>
-                    <h4>Service des annonces</h4>
-                    <p style="text-align: center;">Ce qui se passe en cas d'action ou d'inaction. Enfin, appelez l'Église à agir dans le but de plaire à Dieu, de servir les autres et de magnifier Christ</p>
+                    <h4>Ecole primaire</h4>
+                    <p style="text-align: justify;">J'avait suivi les étudies primaires de prémière à sixième, pour le commencement de ma formation d'où j'i obtenu mon certificat de réussite.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
