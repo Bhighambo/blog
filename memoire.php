@@ -2,6 +2,12 @@
 <div class="breadcrumbs" data-aos="fade-in" style="padding-top: 20px;">
       <div class="container">
         <h2>Les memoires disponibles</h2>
+        <form>
+          <div class="input-group mb-3">
+            <input type="password" class="form-control" required id="pwd" aria-label="Text input with checkbox" placeholder="Rechercher" name="r">  
+            <button class="input-group-text btn btn-primary"><i class="bi bi-search"></i></button>
+        </div>
+        </form>
       </div>
     </div>
 <section id="trainers" class="trainers">
