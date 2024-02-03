@@ -31,9 +31,7 @@
     <div class="card card-authentication1 mx-auto my-5 bg-dark">
         <div class="card-body">
          <div class="card-content p-2">
-            <div class="text-center" style="background-color: white">
-                <img src="assets/img/logos.jpg" alt="logo icon">
-            </div>
+          <h1 class="text-center">Login</h1>
           <div class="card-title text-uppercase text-center py-3"></div>
            <?php if(!empty($_GET["messages"])==1): ?>
                     <div class="alert alert-danger" style="padding: 10px; font-size: 16px; font-family: century gothic">Coplètez tous les champs</div>
@@ -74,7 +72,7 @@
            </div>
           </div>
           <div class="card-footer text-center py-3">
-            <p class="text-warning mb-0"> Si vous n'avez pas un compte désolé!<a href="register.html"></a></p>
+            <p class="text-warning mb-0"> Si vous n'avez pas un compte désolée!<a href="register.html"></a></p>
           </div>
          </div>
     <a href="javaScript:void();" class="back-to-top"><i class="fa fa-angle-double-up"></i> </a>

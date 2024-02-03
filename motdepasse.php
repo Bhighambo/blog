@@ -38,7 +38,7 @@
           <div class="alert alert-success" style="padding: 10px; font-size: 16px; font-family: century gothic">Le mot de passe est envoyé dans votre adresse mail</div>
         <?php endif ?>
         <?php if(!empty($_GET["messages"])==1): ?>
-          <div class="alert alert-danger" style="padding: 10px; font-size: 16px; font-family: century gothic">Désolé car vous n'avez pas un compte dans notre application!</div>
+          <div class="alert alert-danger" style="padding: 10px; font-size: 16px; font-family: century gothic">Désolée! vous n'êtes pas parmis les utilisateurs</div>
         <?php endif ?>
 		    <form action="mail.php" method="post">
           <div class="form-group">
