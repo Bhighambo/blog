@@ -1,7 +1,6 @@
 <?php include "menuAdmin.php"; ?>
     <?php
             if (!empty($_POST["designation"])) {
-              echo "string";
                 $dossier="photos/";
                 $categorie=htmlspecialchars($_POST['designation']);
                 $date=htmlspecialchars($_POST['dateinfo']);
@@ -44,7 +43,7 @@
               </div>
               <div class="form-group mt-3">
 
-                <input type="date" class="form-control" name="dateinfo" placeholder="Titre">
+                <input type="date" class="form-control" name="dateinfo" placeholder="Date">
               </div>
               <div class="form-group mt-3">
                 <input type="file" class="form-control" name="photo" id="subject">
@@ -53,8 +52,8 @@
             </form>
           </div>
           <div class="col-lg-7 mt-5 mt-lg-0">
-          	<div class="infos">
-          		<table class="table">
+          	<div class="infos table-responsive scoll-table">
+          		<table class="table table-sm shadow">
           			<thead>
           				<tr>
           					<th>N°</th>

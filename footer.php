@@ -5,7 +5,7 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; U.A.C<strong><span> Université de l'Assomption au Congo</span></strong>
+          &copy; U.A.C<strong><span> ''Université de l'Assomption au Congo''</span></strong>
         </div>
         <div class="credits">
           Dévoloppé par :<a href="mailto:jacksonkennedy336@gmail.com"> jacksonkennedy336@gmail.com</a>

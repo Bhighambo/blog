@@ -55,8 +55,8 @@
             </form>
           </div>
           <div class="col-lg-7 mt-5 mt-lg-0">
-          	<div class="infos">
-          		<table class="table">
+          	<div class="infos table-responsive scoll-table">
+          		<table class="table table-sm shadow">
           			<thead>
           				<tr>
           					<th>N°</th>

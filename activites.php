@@ -9,7 +9,7 @@
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
         	<?php 
 
-        	$recup = $bdd->prepare("SELECT * FROM infos");
+        	$recup = $bdd->prepare("SELECT * FROM infos order by dateinfos desc");
         	$recup->execute();
         	while ($donnees = $recup->fetch()) {
         		?>

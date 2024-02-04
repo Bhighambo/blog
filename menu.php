@@ -11,8 +11,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/k.jpg" rel="icon">
-  <link href="assets/img/k.jpg" rel="apple-touch-icon">
+  <link href="assets/img/ken.png" rel="icon">
+  <link href="assets/img/ken.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -41,7 +41,7 @@
         <ul>
           <li><a class="active" href="index.php">Home</a></li>
           <li><a href="activites.php">Activités</a></li>
-          <li class="dropdown"><a href="#"><span>Ma bibliothèque</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Bibliothèque</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="tfc.php">TFC</a></li>
               <li><a href="memoire.php">Mémoires</a></li>

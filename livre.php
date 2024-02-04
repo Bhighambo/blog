@@ -15,7 +15,7 @@
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <?php 
 
-          $recup = $bdd->prepare("SELECT * FROM activite where titre='Livres'");
+          $recup = $bdd->prepare("SELECT * FROM activite where titre='Livres' order by idactivite desc");
           $recup->execute();
 
           if(isset($_GET['r'])){
