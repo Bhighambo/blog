@@ -37,7 +37,7 @@
             <div class="content">
               <h3>QUI SUIS-JE?</h3>
               <p style="text-align: justify;">
-                Je suis <span style="color: blue; font-weight: bold;">JACKSON MABHULUKO Kennedy</span>, étudiant à l'Université de l'Assomption au Congo, Faculté des Sciences Economiques de Gestion, Département Informatique de Gestion. Spécialisation en Conception des Systèmes Informations (C.S.I)
+                Je suis <span style="color: blue; font-weight: bold;">JACKSON MABHULUKO Kennedy</span>, étudiant à l'Université de l'Assomption au Congo, Faculté des Sciences Economiques de Gestion, Département Informatique de Gestion. Spécialisation en Conception des Systèmes Informations (C.S.I)  
               </p>
               <div class="text-center">
                 <a href="tel:+243 975 545 108" class="more-btn">Savoir plus sur moi<i class="bx bx-chevron-right"></i></a>
